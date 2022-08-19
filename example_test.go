@@ -5,7 +5,7 @@ import (
 	"image/color"
 	"log"
 
-	"github.com/disintegration/imaging"
+	imaging "github.com/vecno-io/go-magin"
 )
 
 func Example() {
